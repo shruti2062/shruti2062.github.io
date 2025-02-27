@@ -10,7 +10,7 @@ params:
     powered by [hugo](https://gohugo.io/) & deployed on
     [Cloudflare](https://www.cloudflare.com/)
   theme:
-    mainTheme: dark
+    mainTheme: light
     showAttribute: true
     singlePage: false
   favicons:
@@ -24,15 +24,15 @@ params:
               <link rel="shortcut icon" href="favicon.ico">
 
   profile:
-    name: "First Last, Abbr."
-    tagline: Title
-    location: "City Name, ST"
+    name: "Shruti Sharma"
+    tagline: Research Scholar
+    location: "India"
     photo: profile.jpg
   social:
     title: Links
     list:
       - icon: fab fa-linkedin-in
-        url: "#"
+        url: "www.linkedin.com/in/shruti-sharma-592075226"
         title: LinkedIn
       - icon: fab fa-stack-overflow
         url: "#"
@@ -44,7 +44,7 @@ params:
         url: "#"
         title: Twitter
       - icon: fab fa-orcid
-        url: "#"
+        url: "https://orcid.org/0009-0005-4259-7348"
         title: Orcid
       - icon: ai ai-google-scholar
         url: "#"

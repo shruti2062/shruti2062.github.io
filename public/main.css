@@ -521,6 +521,9 @@
   }
 }
 @layer utilities {
+  .visible {
+    visibility: visible !important;
+  }
   .relative {
     position: relative !important;
   }
@@ -529,6 +532,24 @@
   }
   .col-span-3 {
     grid-column: span 3 / span 3 !important;
+  }
+  .container {
+    width: 100% !important;
+    @media (width >= 40rem) {
+      max-width: 40rem !important;
+    }
+    @media (width >= 48rem) {
+      max-width: 48rem !important;
+    }
+    @media (width >= 64rem) {
+      max-width: 64rem !important;
+    }
+    @media (width >= 80rem) {
+      max-width: 80rem !important;
+    }
+    @media (width >= 96rem) {
+      max-width: 96rem !important;
+    }
   }
   .m-0 {
     margin: calc(var(--spacing) * 0) !important;
@@ -999,11 +1020,23 @@
   .block {
     display: block !important;
   }
+  .contents {
+    display: contents !important;
+  }
   .flex {
     display: flex !important;
   }
   .grid {
     display: grid !important;
+  }
+  .hidden {
+    display: none !important;
+  }
+  .table {
+    display: table !important;
+  }
+  .h-1 {
+    height: calc(var(--spacing) * 1) !important;
   }
   .h-full {
     height: 100% !important;
@@ -1106,6 +1139,9 @@
   .bg-gray-300 {
     background-color: var(--color-gray-300) !important;
   }
+  .p-1 {
+    padding: calc(var(--spacing) * 1) !important;
+  }
   .p-2 {
     padding: calc(var(--spacing) * 2) !important;
   }
@@ -1157,12 +1193,19 @@
   .underline {
     text-decoration-line: underline !important;
   }
+  .blur {
+    --tw-blur: blur(8px) !important;
+    filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,) !important;
+  }
   .drop-shadow-md {
     --tw-drop-shadow: drop-shadow(var(--drop-shadow-md)) !important;
     filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,) !important;
   }
   .invert {
     --tw-invert: invert(100%) !important;
+    filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,) !important;
+  }
+  .filter {
     filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,) !important;
   }
   .transition {
