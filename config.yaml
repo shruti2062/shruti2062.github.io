@@ -64,7 +64,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: I am Shruti.
+    description: I am Shruti, phd.
   experience:
     title: Experiences
     icon: fas fa-briefcase
