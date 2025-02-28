@@ -64,17 +64,17 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: I am Shruti, phd.
+    description: I am currently pursuing a Ph.D. in the field of nanoscience and technology, focusing on the synthesis and characterization of Carbon Quantum Dots (CQDs) using cost-effective techniques with various non-toxic green and organic precursors. To enhance their efficiency and stability, these CQDs are capped with organic polymers. My research explores their applications in nanosensors, bioimaging, and light-emitting devices. I have published eight research papers, including six as the first author in reputed journals, and have presented my work at multiple national and international conferences. 
   experience:
     title: Experiences
     icon: fas fa-briefcase
     list:
-      - position: Job Title
-        dates: 2019 - *Present*
-        company: Company Name
+      - position: Ph.D. Research Scholar
+        dates: 2022 - Present
+        company: Jaypee Institute of Information Technology, Noida secor-62, Uttar Pradesh India
         details: |1-
           - Printed from desktop. Sent [emails](#).
-              - Called people *using* telephone.
+          - Called people *using* telephone.
           - Drank water from office cooler.
           - Ate donuts on people's birthdays.
       - position: Job Title
@@ -85,19 +85,19 @@ params:
     title: Education
     icon: fas fa-graduation-cap
     list:
-      - degree: Ph.D. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
+      - degree: Ph.D. in Physics
+        college: Jaypee Institute of Information Technology, Noida secor-62, Uttar Pradesh India
+        dates: 2022 - Present
+        thesis_title: "Carbon Quantum Dots (CQDs) synthesis, charecterization and applications."
         thesis_url: "#"
-      - degree: M.S. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
+      - degree: M.Sc. in Physics 
+        college: Kirorimal College, University of Delhi, India
+        dates: 2020 - 2022
+        thesis_title: "PROTON ACCELERATION FROM LASER-SOLID INTERACTION VIA PIC SIMULATION"
         thesis_url: "#"
-      - degree: B.S. in Subject
-        college: University of State-City
-        dates: 2004 - 2009
+      - degree: B.S. in Physics (Honours)
+        college: Shaheed Rajguru College of Applied Sciences for Women, University of Delhi, India
+        dates: 2017 - 2020
   publication:
     title: Publications
     icon: fas fa-book
