@@ -1,14 +1,11 @@
-baseURL: https://aafu.pages.dev/
+baseURL: https://shruti2062.github.io/
 languageCode: en-us
 build:
   writeStats: true
 params:
   title: Shruti's Portfolio
-  author: Darshan Baral
+  author: Shruti Sharma
   description: Website title
-  copyright: >-
-    powered by [hugo](https://gohugo.io/) & deployed on
-    [Cloudflare](https://www.cloudflare.com/)
   theme:
     mainTheme: light
     showAttribute: true
@@ -32,25 +29,16 @@ params:
     title: Links
     list:
       - icon: fab fa-linkedin-in
-        url: "www.linkedin.com/in/shruti-sharma-592075226"
+        url: "https://www.linkedin.com/in/shruti-sharma-592075226"
         title: LinkedIn
-      - icon: fab fa-stack-overflow
-        url: "#"
-        title: StackOverflow
-      - icon: fab fa-github
-        url: "#"
-        title: GitHub
-      - icon: fab fa-twitter
-        url: "#"
-        title: Twitter
       - icon: fab fa-orcid
         url: "https://orcid.org/0009-0005-4259-7348"
         title: Orcid
       - icon: ai ai-google-scholar
-        url: "#"
+        url: "https://scholar.google.com/citations?user=8KN7rKQAAAAJ&hl=en"
         title: Google Scholar
       - icon: fab fa-researchgate
-        url: "#"
+        url: "https://www.researchgate.net/profile/Shruti-Sharma-124?ev=hdr_xprf"
         title: ResearchGate
   showInAccordion:
     - item: aboutme
@@ -73,30 +61,23 @@ params:
         dates: 2022 - Present
         company: Jaypee Institute of Information Technology, Noida secor-62, Uttar Pradesh India
         details: |1-
-          - Printed from desktop. Sent [emails](#).
-          - Called people *using* telephone.
-          - Drank water from office cooler.
-          - Ate donuts on people's birthdays.
-      - position: Job Title
-        dates: 2018 - 2019
-        url: "#"
-        company: Company Name
+          - synthesis and characterization of Carbon Quantum Dots (CQDs) using cost-effective techniques with various non-toxic green and organic precursors.
   education:
     title: Education
     icon: fas fa-graduation-cap
     list:
       - degree: Ph.D. in Physics
-        college: Jaypee Institute of Information Technology, Noida secor-62, Uttar Pradesh India
+        college: Jaypee Institute of Information Technology, Noida secor-62, Uttar Pradesh, India
         dates: 2022 - Present
-        thesis_title: "Carbon Quantum Dots (CQDs) synthesis, charecterization and applications."
+        thesis_title: "Carbon Quantum Dots (CQDs) synthesis, characterization and applications."
         thesis_url: "#"
       - degree: M.Sc. in Physics 
-        college: Kirorimal College, University of Delhi, India
+        college: Kirorimal College, University of Delhi, New Delhi India
         dates: 2020 - 2022
-        thesis_title: "PROTON ACCELERATION FROM LASER-SOLID INTERACTION VIA PIC SIMULATION"
+        thesis_title: "Proton acceleration from laser-solid interaction via pic simulations."
         thesis_url: "#"
       - degree: B.S. in Physics (Honours)
-        college: Shaheed Rajguru College of Applied Sciences for Women, University of Delhi, India
+        college: Shaheed Rajguru College of Applied Sciences for Women, University of Delhi, New Delhi, India
         dates: 2017 - 2020
   publication:
     title: Publications
@@ -111,31 +92,65 @@ params:
       - Proceedings
     list:
       - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
+          Harvesting Nature's Brilliance: Iron Ion (Fe3+) Sensing by Plumeria obtusa Leaf-Derived Carbon Quantum Dots.
+        authors: "Shruti Sharma, Amisha Bhardwaj, Narayanan Venkatakrishnan, Papia Chowdhury"
+        date: "2024"
+        journal: "Arabian Journal for Science and Engineering"
+        url: "https://doi.org/10.1007/s13369-024-09815-8"
         type: Journal Articles
       - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
+          Reactivities of 4-amino salicylic acid and its ‘Green’inhibition into nano sized β-cyclodextrin for Anti-Tuberculosis drug delivery.
+        authors: "Shruti Sharma, Pooja Yadav, Meenakshi Rana, Papia Chowdhury"
+        date: "2024"
+        journal: "Journal of Molecular Liquids, 410, 125611"
+        url: "https://doi.org/10.1016/j.molliq.2024.125611"
         type: Journal Articles
       - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
+          Photoluminescent carbon quantum dots synthesized from Plumeria leaves as metal ion sensor.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2024"
+        journal: "Bulletin of Materials Science 47 (3), 187"
+        url: "https://doi.org/10.1007/s12034-024-03273-6"
+        type: Journal Articles
+      - title: >-
+          Tunable dual photoluminescence from synthesized urea-based carbon quantum dots: A DFT based simulation on structural insights.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2024"
+        journal: "Optical Materials, 153, 115617"
+        url: "https://doi.org/10.1016/j.optmat.2024.115617"
+        type: Journal Articles
+      - title: >-
+          Thioglycolic acid capped CdSe/ZnS quantum dot as fluorescent sensor for the detection of water-soluble hazardous heavy metal ions.
+        authors: "Shruti Sharma, Pooja Yadav, Papia Chowdhury"
+        date: "2024"
+        journal: "Applied Physics A 130 (5), 1-12"
+        url: "https://doi.org/10.1007/s00339-024-07491-x"
+        type: Journal Articles
+      - title: >-
+          Two-photon absorption and optical limiting in 7-diethylamino-4-methyl coumarin.
+        authors: "Shradha Lakhera, Kamal Devlal, Meenakshi Rana, N Kanagathara, A Dhanusha, TC Sabari Girisun, Shruti Sharma, Papia Chowdhury"
+        date: "2024"
+        journal: "Journal of Photochemistry and Photobiology A: Chemistry 447, 115216"
+        url: "https://doi.org/10.1016/j.jphotochem.2023.115216"
+        type: Journal Articles
+        type: Journal Articles
+      - title: >-
+          Exploring the nonlinear optical limiting activity of para-aminobenzoic acid by experimental and DFT approach.
+        authors: "Shradha Lakhera, Meenakshi Rana, Kamal Devlal, Shruti Sharma, Papia Chowdhury, Vivek Dhuliya, Sagar Panwar, LP Purohit, A Dhanusha, TC Sabari Girisun"
+        date: "2023"
+        journal: "Journal of Photochemistry and Photobiology A: Chemistry, 444, 114987"
+        url: "https://doi.org/10.1016/j.jphotochem.2023.114987"
+        type: Journal Articles
+      - 
+        title: >-
+          Fluorescence signal from carbon quantum dots synthesized from natural resources.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2023"
+        journal: "Materials Today: Proceedings"
+        url: "https://doi.org/10.1016/j.matpr.2023.05.676"
         type: Proceedings
   project:
-    title: Projects
+    title: Projects/Summer Schools
     icon: fas fa-project-diagram
     list:
       - title: Project 1
