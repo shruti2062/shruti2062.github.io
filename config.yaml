@@ -393,4 +393,23 @@ params:
         journal: "Materials Today: Proceedings"
         url: "https://doi.org/10.1016/j.matpr.2023.05.676"
         type: Proceedings
-  
+  skill:
+    title: Skills
+    panelId: skill-panel
+    icon: fas fa-cogs
+    list:
+      - skill: "Skill 1, Skill 2"
+        skillrating: 90
+      - skill: Skill 3
+        skillrating: 80
+      - skill: Skill 4
+        skillrating: 50
+    hobby:
+    title: Hobbies
+    icon: fas fa-gamepad
+    list:
+      - hobby: Painting
+      - hobby: Travelling
+      - hobby: Cooking
+      
+    
