@@ -1,0 +1,27 @@
+{{ if .Site.Params.conference.types }}
+{{ range.Site.Params.conference.types }}
+{{ $type := . }}
+<h4 style="text-decoration: underline;">{{ $type }}</h4>
+{{- range $.Site.Params.conference.list -}}
+{{ if eq $type .type }}
+{{- $this_conference := . -}}
+<p class="foo indent-8">
+  {{- range $.Site.Params.conference.format -}}
+  {{- partial "accordion/supportingPartials/addTitle" (dict "all" $this_conference "ind" .) -}}
+  {{- end -}}
+</p>
+{{ end }}
+{{- end -}}
+{{ end }}
+
+{{ else }}
+
+{{- range $.Site.Params.conference.list -}}
+{{- $this_conference := . -}}
+<p class="bar -indent-8">
+  {{- range $.Site.Params.conference.format -}}
+  {{- partial "accordion/supportingPartials/addTitle" (dict "all" $this_conference "ind" .) -}}
+  {{- end -}}
+</p>
+{{ end }}
+{{ end }}

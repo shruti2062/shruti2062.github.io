@@ -149,6 +149,76 @@ params:
         journal: "Materials Today: Proceedings"
         url: "https://doi.org/10.1016/j.matpr.2023.05.676"
         type: Proceedings
+    publication:
+    title: Publications
+    icon: fas fa-book
+    format:
+      - date
+      - title
+      - authors
+      - journal
+    types:
+      - Journal Articles
+      - Proceedings
+    list:
+      - title: >-
+          Harvesting Nature's Brilliance: Iron Ion (Fe3+) Sensing by Plumeria obtusa Leaf-Derived Carbon Quantum Dots.
+        authors: "Shruti Sharma, Amisha Bhardwaj, Narayanan Venkatakrishnan, Papia Chowdhury"
+        date: "2024"
+        journal: "Arabian Journal for Science and Engineering"
+        url: "https://doi.org/10.1007/s13369-024-09815-8"
+        type: Journal Articles
+      - title: >-
+          Reactivities of 4-amino salicylic acid and its ‘Green’inhibition into nano sized β-cyclodextrin for Anti-Tuberculosis drug delivery.
+        authors: "Shruti Sharma, Pooja Yadav, Meenakshi Rana, Papia Chowdhury"
+        date: "2024"
+        journal: "Journal of Molecular Liquids, 410, 125611"
+        url: "https://doi.org/10.1016/j.molliq.2024.125611"
+        type: Journal Articles
+      - title: >-
+          Photoluminescent carbon quantum dots synthesized from Plumeria leaves as metal ion sensor.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2024"
+        journal: "Bulletin of Materials Science 47 (3), 187"
+        url: "https://doi.org/10.1007/s12034-024-03273-6"
+        type: Journal Articles
+      - title: >-
+          Tunable dual photoluminescence from synthesized urea-based carbon quantum dots: A DFT based simulation on structural insights.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2024"
+        journal: "Optical Materials, 153, 115617"
+        url: "https://doi.org/10.1016/j.optmat.2024.115617"
+        type: Journal Articles
+      - title: >-
+          Thioglycolic acid capped CdSe/ZnS quantum dot as fluorescent sensor for the detection of water-soluble hazardous heavy metal ions.
+        authors: "Shruti Sharma, Pooja Yadav, Papia Chowdhury"
+        date: "2024"
+        journal: "Applied Physics A 130 (5), 1-12"
+        url: "https://doi.org/10.1007/s00339-024-07491-x"
+        type: Journal Articles
+      - title: >-
+          Two-photon absorption and optical limiting in 7-diethylamino-4-methyl coumarin.
+        authors: "Shradha Lakhera, Kamal Devlal, Meenakshi Rana, N Kanagathara, A Dhanusha, TC Sabari Girisun, Shruti Sharma, Papia Chowdhury"
+        date: "2024"
+        journal: "Journal of Photochemistry and Photobiology A: Chemistry 447, 115216"
+        url: "https://doi.org/10.1016/j.jphotochem.2023.115216"
+        type: Journal Articles
+        type: Journal Articles
+      - title: >-
+          Exploring the nonlinear optical limiting activity of para-aminobenzoic acid by experimental and DFT approach.
+        authors: "Shradha Lakhera, Meenakshi Rana, Kamal Devlal, Shruti Sharma, Papia Chowdhury, Vivek Dhuliya, Sagar Panwar, LP Purohit, A Dhanusha, TC Sabari Girisun"
+        date: "2023"
+        journal: "Journal of Photochemistry and Photobiology A: Chemistry, 444, 114987"
+        url: "https://doi.org/10.1016/j.jphotochem.2023.114987"
+        type: Journal Articles
+      - 
+        title: >-
+          Fluorescence signal from carbon quantum dots synthesized from natural resources.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2023"
+        journal: "Materials Today: Proceedings"
+        url: "https://doi.org/10.1016/j.matpr.2023.05.676"
+        type: Proceedings
   project:
     title: Projects
     icon: fas fa-project-diagram
@@ -156,15 +226,15 @@ params:
       - title: Data Analysis on Time-of-Flight study from the data files of Fermilab's to find Muon's Speed 
         url: "#"
         description: Data Analysis on Time-of-Flight study from the data files of Fermilab's to find Muon's Speed during International Muon Week. In this project we used the data of stacked detectors in Fermilab Location- Batavia, Illinois [ latitude- 41:52.193794 N, longitude- 087:38.902188 W (same for both)] which are placed at different positions upon each other. We determined the speed by calculating the inverse of the slopes of the best fit lines in scatter plots (where the independent variable is separation(m) and the dependent variable is mean traversal time (ns)). We compared our results for different pair of detectors. Looking at our results ,we concluded with our hypothesis to be true where muon speeds are found to be close to speed of light. 
-      - title: Project 2
+      - title: Project
         url: "#"
-        description: Description of the project
-      - title: Project 3
+        description: 
+      - title: 
         url: "#"
-        description: Description of the project
-      - title: Project 4
+        description: 
+      - title: 
         url: "#"
-        description: Description of the project
+        description: 
   skill:
     title: Skills
     panelId: skill-panel
@@ -183,3 +253,144 @@ params:
       - hobby: Cooking
       - hobby: Hiking
       - hobby: Baking
+  conference:
+    title: Conferences
+    icon: fas fa-book
+    format:
+      - date
+      - title
+      - authors
+      - journal
+    types:
+      - Journal Articles
+      - Proceedings
+    list:
+      - title: >-
+          Harvesting Nature's Brilliance: Iron Ion (Fe3+) Sensing by Plumeria obtusa Leaf-Derived Carbon Quantum Dots.
+        authors: "Shruti Sharma, Amisha Bhardwaj, Narayanan Venkatakrishnan, Papia Chowdhury"
+        date: "2024"
+        journal: "Arabian Journal for Science and Engineering"
+        url: "https://doi.org/10.1007/s13369-024-09815-8"
+        type: Journal Articles
+      - title: >-
+          Reactivities of 4-amino salicylic acid and its ‘Green’inhibition into nano sized β-cyclodextrin for Anti-Tuberculosis drug delivery.
+        authors: "Shruti Sharma, Pooja Yadav, Meenakshi Rana, Papia Chowdhury"
+        date: "2024"
+        journal: "Journal of Molecular Liquids, 410, 125611"
+        url: "https://doi.org/10.1016/j.molliq.2024.125611"
+        type: Journal Articles
+      - title: >-
+          Photoluminescent carbon quantum dots synthesized from Plumeria leaves as metal ion sensor.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2024"
+        journal: "Bulletin of Materials Science 47 (3), 187"
+        url: "https://doi.org/10.1007/s12034-024-03273-6"
+        type: Journal Articles
+      - title: >-
+          Tunable dual photoluminescence from synthesized urea-based carbon quantum dots: A DFT based simulation on structural insights.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2024"
+        journal: "Optical Materials, 153, 115617"
+        url: "https://doi.org/10.1016/j.optmat.2024.115617"
+        type: Journal Articles
+      - title: >-
+          Thioglycolic acid capped CdSe/ZnS quantum dot as fluorescent sensor for the detection of water-soluble hazardous heavy metal ions.
+        authors: "Shruti Sharma, Pooja Yadav, Papia Chowdhury"
+        date: "2024"
+        journal: "Applied Physics A 130 (5), 1-12"
+        url: "https://doi.org/10.1007/s00339-024-07491-x"
+        type: Journal Articles
+      - title: >-
+          Two-photon absorption and optical limiting in 7-diethylamino-4-methyl coumarin.
+        authors: "Shradha Lakhera, Kamal Devlal, Meenakshi Rana, N Kanagathara, A Dhanusha, TC Sabari Girisun, Shruti Sharma, Papia Chowdhury"
+        date: "2024"
+        journal: "Journal of Photochemistry and Photobiology A: Chemistry 447, 115216"
+        url: "https://doi.org/10.1016/j.jphotochem.2023.115216"
+        type: Journal Articles
+        type: Journal Articles
+      - title: >-
+          Exploring the nonlinear optical limiting activity of para-aminobenzoic acid by experimental and DFT approach.
+        authors: "Shradha Lakhera, Meenakshi Rana, Kamal Devlal, Shruti Sharma, Papia Chowdhury, Vivek Dhuliya, Sagar Panwar, LP Purohit, A Dhanusha, TC Sabari Girisun"
+        date: "2023"
+        journal: "Journal of Photochemistry and Photobiology A: Chemistry, 444, 114987"
+        url: "https://doi.org/10.1016/j.jphotochem.2023.114987"
+        type: Journal Articles
+      - 
+        title: >-
+          Fluorescence signal from carbon quantum dots synthesized from natural resources.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2023"
+        journal: "Materials Today: Proceedings"
+        url: "https://doi.org/10.1016/j.matpr.2023.05.676"
+        type: Proceedings
+    publication:
+    title: Publications
+    icon: fas fa-book
+    format:
+      - date
+      - title
+      - authors
+      - journal
+    types:
+      - Journal Articles
+      - Proceedings
+    list:
+      - title: >-
+          Harvesting Nature's Brilliance: Iron Ion (Fe3+) Sensing by Plumeria obtusa Leaf-Derived Carbon Quantum Dots.
+        authors: "Shruti Sharma, Amisha Bhardwaj, Narayanan Venkatakrishnan, Papia Chowdhury"
+        date: "2024"
+        journal: "Arabian Journal for Science and Engineering"
+        url: "https://doi.org/10.1007/s13369-024-09815-8"
+        type: Journal Articles
+      - title: >-
+          Reactivities of 4-amino salicylic acid and its ‘Green’inhibition into nano sized β-cyclodextrin for Anti-Tuberculosis drug delivery.
+        authors: "Shruti Sharma, Pooja Yadav, Meenakshi Rana, Papia Chowdhury"
+        date: "2024"
+        journal: "Journal of Molecular Liquids, 410, 125611"
+        url: "https://doi.org/10.1016/j.molliq.2024.125611"
+        type: Journal Articles
+      - title: >-
+          Photoluminescent carbon quantum dots synthesized from Plumeria leaves as metal ion sensor.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2024"
+        journal: "Bulletin of Materials Science 47 (3), 187"
+        url: "https://doi.org/10.1007/s12034-024-03273-6"
+        type: Journal Articles
+      - title: >-
+          Tunable dual photoluminescence from synthesized urea-based carbon quantum dots: A DFT based simulation on structural insights.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2024"
+        journal: "Optical Materials, 153, 115617"
+        url: "https://doi.org/10.1016/j.optmat.2024.115617"
+        type: Journal Articles
+      - title: >-
+          Thioglycolic acid capped CdSe/ZnS quantum dot as fluorescent sensor for the detection of water-soluble hazardous heavy metal ions.
+        authors: "Shruti Sharma, Pooja Yadav, Papia Chowdhury"
+        date: "2024"
+        journal: "Applied Physics A 130 (5), 1-12"
+        url: "https://doi.org/10.1007/s00339-024-07491-x"
+        type: Journal Articles
+      - title: >-
+          Two-photon absorption and optical limiting in 7-diethylamino-4-methyl coumarin.
+        authors: "Shradha Lakhera, Kamal Devlal, Meenakshi Rana, N Kanagathara, A Dhanusha, TC Sabari Girisun, Shruti Sharma, Papia Chowdhury"
+        date: "2024"
+        journal: "Journal of Photochemistry and Photobiology A: Chemistry 447, 115216"
+        url: "https://doi.org/10.1016/j.jphotochem.2023.115216"
+        type: Journal Articles
+        type: Journal Articles
+      - title: >-
+          Exploring the nonlinear optical limiting activity of para-aminobenzoic acid by experimental and DFT approach.
+        authors: "Shradha Lakhera, Meenakshi Rana, Kamal Devlal, Shruti Sharma, Papia Chowdhury, Vivek Dhuliya, Sagar Panwar, LP Purohit, A Dhanusha, TC Sabari Girisun"
+        date: "2023"
+        journal: "Journal of Photochemistry and Photobiology A: Chemistry, 444, 114987"
+        url: "https://doi.org/10.1016/j.jphotochem.2023.114987"
+        type: Journal Articles
+      - 
+        title: >-
+          Fluorescence signal from carbon quantum dots synthesized from natural resources.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2023"
+        journal: "Materials Today: Proceedings"
+        url: "https://doi.org/10.1016/j.matpr.2023.05.676"
+        type: Proceedings
+  
