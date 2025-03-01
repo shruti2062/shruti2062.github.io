@@ -52,7 +52,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: I am currently pursuing a Ph.D. in the field of nanoscience and technology, focusing on the synthesis and characterization of Carbon Quantum Dots (CQDs) using cost-effective techniques with various non-toxic green and organic precursors. To enhance their efficiency and stability, these CQDs are capped with organic polymers. My research explores their applications in nanosensors, bioimaging, and light-emitting devices. I have published eight research papers, including six as the first author in reputed journals, and have presented my work at multiple national and international conferences. 
+    description: I am currently pursuing a Ph.D. in the field of nanoscience and technology, focusing on the synthesis and characterization of Carbon Quantum Dots (CQDs) using cost-effective techniques with various non-toxic green and organic precursors. To enhance their efficiency and stability, these CQDs are capped with organic polymers. My research explores their applications in nanosensors, bioimaging, and light-emitting devices.  Additionally, I validate my experimental findings through Density Functional Theory (DFT) simulations using Gaussian software. I have published eight research papers, including six as the first author in reputed journals, and have presented my work at multiple national and international conferences. 
   experience:
     title: Experiences
     icon: fas fa-briefcase
@@ -240,176 +240,18 @@ params:
     panelId: skill-panel
     icon: fas fa-cogs
     list:
-      - skill: "Skill 1, Skill 2"
+      - skill: "M.S. Word, powerpoint, Excel"
         skillrating: 90
-      - skill: Skill 3
+      - skill: Gaussian Software
         skillrating: 80
-      - skill: Skill 4
-        skillrating: 50
+      - skill: C, C++, Scilab, Fortran
+        skillrating: 80
   hobby:
-    title: Hobbies
-    icon: fas fa-gamepad
-    list:
-      - hobby: Cooking
-      - hobby: Hiking
-      - hobby: Baking
-  conference:
-    title: Conferences
-    icon: fas fa-book
-    format:
-      - date
-      - title
-      - authors
-      - journal
-    types:
-      - Journal Articles
-      - Proceedings
-    list:
-      - title: >-
-          Harvesting Nature's Brilliance: Iron Ion (Fe3+) Sensing by Plumeria obtusa Leaf-Derived Carbon Quantum Dots.
-        authors: "Shruti Sharma, Amisha Bhardwaj, Narayanan Venkatakrishnan, Papia Chowdhury"
-        date: "2024"
-        journal: "Arabian Journal for Science and Engineering"
-        url: "https://doi.org/10.1007/s13369-024-09815-8"
-        type: Journal Articles
-      - title: >-
-          Reactivities of 4-amino salicylic acid and its ‘Green’inhibition into nano sized β-cyclodextrin for Anti-Tuberculosis drug delivery.
-        authors: "Shruti Sharma, Pooja Yadav, Meenakshi Rana, Papia Chowdhury"
-        date: "2024"
-        journal: "Journal of Molecular Liquids, 410, 125611"
-        url: "https://doi.org/10.1016/j.molliq.2024.125611"
-        type: Journal Articles
-      - title: >-
-          Photoluminescent carbon quantum dots synthesized from Plumeria leaves as metal ion sensor.
-        authors: "Shruti Sharma, Papia Chowdhury"
-        date: "2024"
-        journal: "Bulletin of Materials Science 47 (3), 187"
-        url: "https://doi.org/10.1007/s12034-024-03273-6"
-        type: Journal Articles
-      - title: >-
-          Tunable dual photoluminescence from synthesized urea-based carbon quantum dots: A DFT based simulation on structural insights.
-        authors: "Shruti Sharma, Papia Chowdhury"
-        date: "2024"
-        journal: "Optical Materials, 153, 115617"
-        url: "https://doi.org/10.1016/j.optmat.2024.115617"
-        type: Journal Articles
-      - title: >-
-          Thioglycolic acid capped CdSe/ZnS quantum dot as fluorescent sensor for the detection of water-soluble hazardous heavy metal ions.
-        authors: "Shruti Sharma, Pooja Yadav, Papia Chowdhury"
-        date: "2024"
-        journal: "Applied Physics A 130 (5), 1-12"
-        url: "https://doi.org/10.1007/s00339-024-07491-x"
-        type: Journal Articles
-      - title: >-
-          Two-photon absorption and optical limiting in 7-diethylamino-4-methyl coumarin.
-        authors: "Shradha Lakhera, Kamal Devlal, Meenakshi Rana, N Kanagathara, A Dhanusha, TC Sabari Girisun, Shruti Sharma, Papia Chowdhury"
-        date: "2024"
-        journal: "Journal of Photochemistry and Photobiology A: Chemistry 447, 115216"
-        url: "https://doi.org/10.1016/j.jphotochem.2023.115216"
-        type: Journal Articles
-        type: Journal Articles
-      - title: >-
-          Exploring the nonlinear optical limiting activity of para-aminobenzoic acid by experimental and DFT approach.
-        authors: "Shradha Lakhera, Meenakshi Rana, Kamal Devlal, Shruti Sharma, Papia Chowdhury, Vivek Dhuliya, Sagar Panwar, LP Purohit, A Dhanusha, TC Sabari Girisun"
-        date: "2023"
-        journal: "Journal of Photochemistry and Photobiology A: Chemistry, 444, 114987"
-        url: "https://doi.org/10.1016/j.jphotochem.2023.114987"
-        type: Journal Articles
-      - 
-        title: >-
-          Fluorescence signal from carbon quantum dots synthesized from natural resources.
-        authors: "Shruti Sharma, Papia Chowdhury"
-        date: "2023"
-        journal: "Materials Today: Proceedings"
-        url: "https://doi.org/10.1016/j.matpr.2023.05.676"
-        type: Proceedings
-    publication:
-    title: Publications
-    icon: fas fa-book
-    format:
-      - date
-      - title
-      - authors
-      - journal
-    types:
-      - Journal Articles
-      - Proceedings
-    list:
-      - title: >-
-          Harvesting Nature's Brilliance: Iron Ion (Fe3+) Sensing by Plumeria obtusa Leaf-Derived Carbon Quantum Dots.
-        authors: "Shruti Sharma, Amisha Bhardwaj, Narayanan Venkatakrishnan, Papia Chowdhury"
-        date: "2024"
-        journal: "Arabian Journal for Science and Engineering"
-        url: "https://doi.org/10.1007/s13369-024-09815-8"
-        type: Journal Articles
-      - title: >-
-          Reactivities of 4-amino salicylic acid and its ‘Green’inhibition into nano sized β-cyclodextrin for Anti-Tuberculosis drug delivery.
-        authors: "Shruti Sharma, Pooja Yadav, Meenakshi Rana, Papia Chowdhury"
-        date: "2024"
-        journal: "Journal of Molecular Liquids, 410, 125611"
-        url: "https://doi.org/10.1016/j.molliq.2024.125611"
-        type: Journal Articles
-      - title: >-
-          Photoluminescent carbon quantum dots synthesized from Plumeria leaves as metal ion sensor.
-        authors: "Shruti Sharma, Papia Chowdhury"
-        date: "2024"
-        journal: "Bulletin of Materials Science 47 (3), 187"
-        url: "https://doi.org/10.1007/s12034-024-03273-6"
-        type: Journal Articles
-      - title: >-
-          Tunable dual photoluminescence from synthesized urea-based carbon quantum dots: A DFT based simulation on structural insights.
-        authors: "Shruti Sharma, Papia Chowdhury"
-        date: "2024"
-        journal: "Optical Materials, 153, 115617"
-        url: "https://doi.org/10.1016/j.optmat.2024.115617"
-        type: Journal Articles
-      - title: >-
-          Thioglycolic acid capped CdSe/ZnS quantum dot as fluorescent sensor for the detection of water-soluble hazardous heavy metal ions.
-        authors: "Shruti Sharma, Pooja Yadav, Papia Chowdhury"
-        date: "2024"
-        journal: "Applied Physics A 130 (5), 1-12"
-        url: "https://doi.org/10.1007/s00339-024-07491-x"
-        type: Journal Articles
-      - title: >-
-          Two-photon absorption and optical limiting in 7-diethylamino-4-methyl coumarin.
-        authors: "Shradha Lakhera, Kamal Devlal, Meenakshi Rana, N Kanagathara, A Dhanusha, TC Sabari Girisun, Shruti Sharma, Papia Chowdhury"
-        date: "2024"
-        journal: "Journal of Photochemistry and Photobiology A: Chemistry 447, 115216"
-        url: "https://doi.org/10.1016/j.jphotochem.2023.115216"
-        type: Journal Articles
-        type: Journal Articles
-      - title: >-
-          Exploring the nonlinear optical limiting activity of para-aminobenzoic acid by experimental and DFT approach.
-        authors: "Shradha Lakhera, Meenakshi Rana, Kamal Devlal, Shruti Sharma, Papia Chowdhury, Vivek Dhuliya, Sagar Panwar, LP Purohit, A Dhanusha, TC Sabari Girisun"
-        date: "2023"
-        journal: "Journal of Photochemistry and Photobiology A: Chemistry, 444, 114987"
-        url: "https://doi.org/10.1016/j.jphotochem.2023.114987"
-        type: Journal Articles
-      - 
-        title: >-
-          Fluorescence signal from carbon quantum dots synthesized from natural resources.
-        authors: "Shruti Sharma, Papia Chowdhury"
-        date: "2023"
-        journal: "Materials Today: Proceedings"
-        url: "https://doi.org/10.1016/j.matpr.2023.05.676"
-        type: Proceedings
-  skill:
-    title: Skills
-    panelId: skill-panel
-    icon: fas fa-cogs
-    list:
-      - skill: "Skill 1, Skill 2"
-        skillrating: 90
-      - skill: Skill 3
-        skillrating: 80
-      - skill: Skill 4
-        skillrating: 50
-    hobby:
     title: Hobbies
     icon: fas fa-gamepad
     list:
       - hobby: Painting
       - hobby: Travelling
       - hobby: Cooking
-      
+      - hobby: Fiction reading
     
