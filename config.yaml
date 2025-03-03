@@ -52,7 +52,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: I am currently pursuing a Ph.D. in the field of nanoscience and technology, focusing on the synthesis and characterization of Carbon Quantum Dots (CQDs) using cost-effective techniques with various non-toxic green and organic precursors. To enhance their efficiency and stability, these CQDs are capped with organic polymers. My research explores their applications in nanosensors, bioimaging, and light-emitting devices.  Additionally, I validate my experimental findings through Density Functional Theory (DFT) simulations using Gaussian software. I have published eight research papers, including six as the first author in reputed journals, and have presented my work at multiple national and international conferences. 
+    description: I am currently pursuing Ph.D. in the field of nanoscience and technology, focusing on the synthesis and characterization of Carbon Quantum Dots (CQDs) using cost-effective techniques with various non-toxic green and organic precursors. To enhance their efficiency and stability, these CQDs are capped with organic polymers. My research explores their applications in nanosensors, bioimaging, and light-emitting devices.  Additionally, I validate my experimental findings through Density Functional Theory (DFT) simulations using Gaussian software. I have published eight research papers, including six as the first author in reputed journals, and have presented my work at multiple national and international conferences. 
   experience:
     title: Conferences/ Workshops/ Summer Schools
     icon: fas fa-briefcase
@@ -92,7 +92,7 @@ params:
         dates: 2020 - 2022
         thesis_title: "Proton acceleration from laser-solid interaction via pic simulations."
         thesis_url: "#"
-      - degree: B.S. in Physics (Honours)
+      - degree: B.Sc. in Physics (Honours)
         college: Shaheed Rajguru College of Applied Sciences for Women, University of Delhi, New Delhi, India
         dates: 2017 - 2020
   publication:
