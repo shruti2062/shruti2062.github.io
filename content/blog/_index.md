@@ -1,4 +1,4 @@
 ---
-title: "aafu theme"
+title: "Shruti Sharma"
 weight: 100
 ---

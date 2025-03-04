@@ -1,17 +1,15 @@
 +++
-author = "Darshan Baral"
-title = "Demo Page"
-date = "2022-11-19"
-description = "Sample article showcasing formatting for HTML elements."
+author = "Shruti Sharma"
+title = "My life"
+date = "2025-02-28"
+description = "My life"
 tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
+    "art",
+    "music",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "art",
+    "music",
 ]
 +++
 
