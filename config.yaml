@@ -174,15 +174,15 @@ params:
         url: "https://doi.org/10.1016/j.matpr.2023.05.676"
         type: Proceedings
   project:
-    title: Projects
+    title: Awards/Projects
     icon: fas fa-project-diagram
     list:
+      - title: Awards
+        url: "#"
+        description: Won  best paper award in Raman Optronics Webinar Series-2023 (ROWS 23) organised by Raman International Optronics Society (RIOS) in association with the Department of Optoelectronics, University of Kerala, India and LELS, University of Nova Gorica, Solvenia. Paper title- Synthesis and Charecterisation of Bio-Derived Carbon Quantum Dots for the Detection of Heavy Metal Ions. 07th-30th December, 2023.
       - title: Data Analysis on Time-of-Flight study from the data files of Fermilab's to find Muon's Speed 
         url: "#"
-        description: Data Analysis on Time-of-Flight study from the data files of Fermilab's to find Muon's Speed during International Muon Week. In this project we used the data of stacked detectors in Fermilab Location- Batavia, Illinois [ latitude- 41:52.193794 N, longitude- 087:38.902188 W (same for both)] which are placed at different positions upon each other. We determined the speed by calculating the inverse of the slopes of the best fit lines in scatter plots (where the independent variable is separation(m) and the dependent variable is mean traversal time (ns)). We compared our results for different pair of detectors. Looking at our results ,we concluded with our hypothesis to be true where muon speeds are found to be close to speed of light. 
-      - title: Project
-        url: "#"
-        description: 
+        description: Data Analysis on Time-of-Flight study from the data files of Fermilab's to find Muon's Speed during International Muon Week. In this project we used the data of stacked detectors in Fermilab Location- Batavia, Illinois [ latitude- 41:52.193794 N, longitude- 087:38.902188 W (same for both)] which are placed at different positions upon each other. We determined the speed by calculating the inverse of the slopes of the best fit lines in scatter plots (where the independent variable is separation(m) and the dependent variable is mean traversal time (ns)). We compared our results for different pair of detectors. Looking at our results ,we concluded with our hypothesis to be true where muon speeds are found to be close to speed of light.  
       - title: 
         url: "#"
         description: 
