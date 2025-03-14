@@ -116,6 +116,13 @@ params:
         url: "https://iprsearch.ipindia.gov.in/publicsearch"
         type: Patent
       - title: >-
+          Urea-based carbon quantum dots for recognition of Fe3+ by fluorescence quenching and Pb2+ by fluorescence enhancement.
+        authors: "Shruti Sharma, Papia Chowdhury"
+        date: "2025"
+        journal: "ChemPlusChem"
+        url: "https://doi.org/10.1002/cplu.202400715"
+        type: Journal Articles
+      - title: >-
           Harvesting Nature's Brilliance: Iron Ion (Fe3+) Sensing by Plumeria obtusa Leaf-Derived Carbon Quantum Dots.
         authors: "Shruti Sharma, Amisha Bhardwaj, Narayanan Venkatakrishnan, Papia Chowdhury"
         date: "2024"
